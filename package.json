@@ -1,0 +1,31 @@
+{
+  "name": "@cssfn/jss-plugin-camel-case",
+  "version": "1.0.0",
+  "description": "A plugin for JSS.",
+  "type": "module",
+  "main": "dist/jss-plugin-camel-case.js",
+  "types": "dist/jss-plugin-camel-case.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cssfn/jss-plugin-camel-case.git"
+  },
+  "keywords": [
+    "jss",
+    "css",
+    "plugin"
+  ],
+  "author": "heymarco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cssfn/jss-plugin-camel-case/issues"
+  },
+  "homepage": "https://github.com/cssfn/jss-plugin-camel-case#readme",
+  "dependencies": {
+    "@types/hyphenate-style-name": "^1.0.0",
+    "hyphenate-style-name": "^1.0.4",
+    "jss": "^10.8.2"
+  }
+}
