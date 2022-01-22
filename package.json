@@ -1,6 +1,6 @@
 {
   "name": "@cssfn/jss-plugin-camel-case",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A plugin for JSS.",
   "type": "module",
   "main": "dist/jss-plugin-camel-case.js",
@@ -26,6 +26,6 @@
   "dependencies": {
     "@types/hyphenate-style-name": "^1.0.0",
     "hyphenate-style-name": "^1.0.4",
-    "jss": "^10.8.2"
+    "jss": "^10.9.0"
   }
 }
